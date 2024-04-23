@@ -31,7 +31,7 @@ import lombok.RequiredArgsConstructor;
 
 @Controller
 @RequiredArgsConstructor
-public class UjmOutitemController { 
+public class UjmOutitemController { //인텔리제이
 
 	private final UjmOutitemService uos;
 	
